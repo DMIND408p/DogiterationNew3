@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/deepu/Downloads/DogWIteration3/app/libs/unity-classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ba0f969d0404f32b61d20daadd8e7c96c2048b4b">
+        <dex dex="/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/transforms/dex/debug/folders/1000/2/unity-classes_fbd886a0d5979bd5568103ad71f99b4bfc044684/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="72856156fac2bc0cda93f4990f7bc47422e14a5c">
+        <dex dex="/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_bb9bcf2811cc4c6fbff1afa429585f35434b88aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_541c4b43e16f4f0d1c16d86ea29baf595228839d/classes.dex" />
+    </item>
+
+</items>

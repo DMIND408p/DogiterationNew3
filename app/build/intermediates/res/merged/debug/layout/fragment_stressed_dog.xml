@@ -1,0 +1,76 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.deepu.dogwiteration1.DogBodyLanguage.StressedDog"
+    android:background="#ffffff"
+    android:id="@+id/stressed_dog">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RadioGroup
+        android:id="@+id/radGrp3"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true">
+
+
+        <RadioButton
+            android:id="@+id/sAngry"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Angry" />
+
+        <RadioButton
+            android:id="@+id/sAnix"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Anixous" />
+
+        <RadioButton
+            android:id="@+id/sImp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Impassive" />
+
+        <RadioButton
+            android:id="@+id/sStress1"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stress1" />
+
+        <RadioButton
+            android:id="@+id/sStress2"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stress2" />
+
+        <RadioButton
+            android:id="@+id/sStress3"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Stress3" />
+
+        <RadioButton
+            android:id="@+id/sRel"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Releif" />
+
+        <RadioButton
+            android:id="@+id/sUns"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Unsafe" />
+
+        <ImageView
+            android:id="@+id/imageView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:srcCompat="@drawable/threatened" />
+    </RadioGroup>
+
+</RelativeLayout>

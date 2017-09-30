@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/raw/google_style.json",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/raw/google_style.json"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/Users/deepu/.android/build-cache/34df2b850a0e5855f10239ba677c82b1d54b7e8b/output/res/raw/gtm_analytics"
+    }
+]

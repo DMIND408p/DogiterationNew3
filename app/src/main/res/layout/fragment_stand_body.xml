@@ -1,0 +1,74 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.deepu.dogwiteration1.DogBodyLanguage.StandBody"
+    android:background="#ffffff"
+    android:id="@+id/stand_dog">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RadioGroup
+        android:id="@+id/radioStandGroup"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:weightSum="1"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+    <RadioButton
+        android:id="@+id/standAlert"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="Alert"
+        android:layout_alignRight="@+id/standRelax"
+        android:layout_alignEnd="@+id/standRelax" />
+
+        <RadioButton
+            android:id="@+id/standRelax"
+            android:layout_width="389dp"
+            android:layout_height="wrap_content"
+            android:layout_below="@+id/standAlert"
+            android:text="Relaxed" />
+
+        <RadioButton
+            android:id="@+id/standSus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBottom="@+id/standRelax"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:text="suspicious" />
+
+        <RadioButton
+        android:id="@+id/standCur"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/standSus"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignStart="@+id/standSus"
+        android:text="Curious" />
+
+    </RadioGroup>
+
+    <ImageView
+        android:id="@+id/imageView6"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/alert"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+</RelativeLayout>

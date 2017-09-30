@@ -1,0 +1,60 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.deepu.dogwiteration1.DogBodyLanguage.SittingDog"
+    android:background="#ffffff"
+    android:id="@+id/sitting_dog">
+
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginTop="13dp"
+        android:id="@+id/sitGrp">
+
+
+        <RadioButton
+            android:id="@+id/sitHost"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Hostile" />
+
+        <RadioButton
+            android:id="@+id/sitFeed"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Feed Me" />
+
+        <RadioButton
+            android:id="@+id/sitHate"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Hatered" />
+
+        <RadioButton
+            android:id="@+id/sitRespect"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:text="Respect" />
+
+
+
+    </RadioGroup>
+
+    <ImageView
+        android:id="@+id/imageView12"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/sitGrp"
+        android:layout_marginTop="87dp"
+        app:srcCompat="@drawable/dlike"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+</RelativeLayout>

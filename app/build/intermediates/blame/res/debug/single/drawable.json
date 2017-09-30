@@ -1,0 +1,830 @@
+[
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_prev.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/map_menu_icon.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/map_menu_icon.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/pen.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/pen.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/shower.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/shower.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/one.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/one.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/prettyplease.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/prettyplease.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_rewind30.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_expanded_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light_focused.xml",
+        "source": "/Users/deepu/.android/build-cache/f0d1baecd4c1c5e0e808e840e5f4c3f9196dbd20/output/res/drawable/common_google_signin_btn_icon_light_focused.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward10.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_forward10.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dlike.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dlike.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/friendlyandpolite.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/friendlyandpolite.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/white.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/white.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/active_dot.xml",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/active_dot.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/stalking.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/stalking.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_btn_borderless_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_tick_mark_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/design_fab_background.xml",
+        "source": "/Users/deepu/.android/build-cache/47cbb3fec9988fde79fc97bb1add70ab364e3140/output/res/drawable/design_fab_background.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dogplay.jpg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dogplay.jpg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/stressrelease.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/stressrelease.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_light.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_cast_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mollyhigh.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/mollyhigh.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/hospital.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/hospital.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dog_food.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dog_food.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/icons8_left_25.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/icons8_left_25.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/save_file_option.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/save_file_option.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/stressscratch.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/stressscratch.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_audiotrack_light.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_audiotrack_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_dialog_material_background_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mollylow.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/mollylow.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/alert.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/alert.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/lying1.jpg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/lying1.jpg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_small_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_media_route_on_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_light.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_media_route_connecting_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dontstoplove.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dontstoplove.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/assetsix.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/assetsix.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_cast_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_cast_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_play.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_expanded_controller_play.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/feedme.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/feedme.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_tab_indicator_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/secondimg.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/secondimg.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/pets_icon.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/pets_icon.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_forward30.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/standing.jpg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/standing.jpg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_progress_drawable.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_mini_controller_progress_drawable.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light_focused.xml",
+        "source": "/Users/deepu/.android/build-cache/f0d1baecd4c1c5e0e808e840e5f4c3f9196dbd20/output/res/drawable/common_google_signin_btn_text_light_focused.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/today_pic.jpg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/today_pic.jpg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_forward.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_close_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_rewind30.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_rewind30.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/notification_bg_low.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dogbodylang.jpg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dogbodylang.jpg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_btn_default_mtrl_shape.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/background_splash.xml",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/background_splash.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/launcher_icon.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/launcher_icon.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_on_light.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_media_route_on_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_skip_ad_label_border.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_skip_ad_label_border.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/streching.jpg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/streching.jpg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/side_nav_bar.xml",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/side_nav_bar.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/design_snackbar_background.xml",
+        "source": "/Users/deepu/.android/build-cache/47cbb3fec9988fde79fc97bb1add70ab364e3140/output/res/drawable/design_snackbar_background.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/icons8_right_25.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/icons8_right_25.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/homepagetwo.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/homepagetwo.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mollynewone.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/mollynewone.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/breed_icon.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/breed_icon.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/nonactive_dot.xml",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/nonactive_dot.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_ic_voice_search_api_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dogpark.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dogpark.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_mini_controller_gradient_light.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_mini_controller_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_vector_test.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_vector_test.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_expanded_controller_actionbar_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/paw_menu_icon.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/paw_menu_icon.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_play_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/navigation_empty_icon.xml",
+        "source": "/Users/deepu/.android/build-cache/47cbb3fec9988fde79fc97bb1add70ab364e3140/output/res/drawable/navigation_empty_icon.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_ratingbar_indicator_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/homepageeeee.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/homepageeeee.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_disconnect.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_disconnect.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/doggy_menu_icon.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/doggy_menu_icon.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/design_bottom_navigation_item_background.xml",
+        "source": "/Users/deepu/.android/build-cache/47cbb3fec9988fde79fc97bb1add70ab364e3140/output/res/drawable/design_bottom_navigation_item_background.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/design_password_eye.xml",
+        "source": "/Users/deepu/.android/build-cache/47cbb3fec9988fde79fc97bb1add70ab364e3140/output/res/drawable/design_password_eye.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_connecting_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_media_route_connecting_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop_large.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_stop_large.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/rubbish_bin.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/rubbish_bin.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_light.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_light.xml",
+        "source": "/Users/deepu/.android/build-cache/f0d1baecd4c1c5e0e808e840e5f4c3f9196dbd20/output/res/drawable/common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/suspicious.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/suspicious.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/assetseven.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/assetseven.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark_focused.xml",
+        "source": "/Users/deepu/.android/build-cache/f0d1baecd4c1c5e0e808e840e5f4c3f9196dbd20/output/res/drawable/common_google_signin_btn_text_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_edit_text_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/lovebug.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/lovebug.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_ic_clear_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/notification_icon_background.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_close_light.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_close_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/nosestrees.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/nosestrees.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/tab_color_selector.xml",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/tab_color_selector.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/notification_bg.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_item_background_holo_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_rewind.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_ic_go_search_api_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_text_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/f0d1baecd4c1c5e0e808e840e5f4c3f9196dbd20/output/res/drawable/common_google_signin_btn_text_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mollynewtwo.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/mollynewtwo.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_light.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_pause_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_mute.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_expanded_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dogback.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dogback.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_pause.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_pause.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_light.xml",
+        "source": "/Users/deepu/.android/build-cache/f0d1baecd4c1c5e0e808e840e5f4c3f9196dbd20/output/res/drawable/common_google_signin_btn_icon_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/leash.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/leash.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/newhimg.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/newhimg.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_play.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_stop_live_stream.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_stop_live_stream.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/calender.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/calender.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_next.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mid.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/mid.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/welcome_page.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/welcome_page.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/notification_tile_bg.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_play_light.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_play_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_pause_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_pause_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/firstaid_menu_icon.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/firstaid_menu_icon.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/threatened.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/threatened.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_btn_radio_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dog.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dog.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_play.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_play.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_skip_prev.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_skip_prev.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_dialog_material_background_light.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_dialog_material_background_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_switch_thumb_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_bg_gradient_light.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_expanded_controller_bg_gradient_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/ic_collapse.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/ic_collapse.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_stop.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_expanded_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_thumb.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_expanded_controller_seekbar_thumb.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_light.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_media_route_mono_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_closed_caption.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_expanded_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/anxious.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/anxious.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_connecting.xml",
+        "source": "/Users/deepu/.android/build-cache/dbfaf2021c87b466eac90bd054bbc5d058f56c9f/output/res/drawable/cast_ic_notification_connecting.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/diary.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/diary.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_expanded_controller_seekbar_track.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_expanded_controller_seekbar_track.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dogvet.jpeg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dogvet.jpeg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/f0d1baecd4c1c5e0e808e840e5f4c3f9196dbd20/output/res/drawable/common_google_signin_btn_icon_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_top_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/iloveu.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/iloveu.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_forward30.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_forward30.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_btn_check_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_btn_check_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_light.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_textfield_search_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/fourdog.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/fourdog.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/respect.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/respect.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/grooming.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/grooming.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/curious.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/curious.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/molymed.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/molymed.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/homepagefour.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/homepagefour.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/relaxed.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/relaxed.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_spinner_textfield_background_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_previous.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_expanded_controller_skip_previous.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_skip_next.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_expanded_controller_skip_next.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_skip_next.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_skip_next.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/stressedyawn.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/stressedyawn.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/friendly.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/friendly.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_track_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/doghome.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/doghome.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/mr_ic_media_route_mono_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/mr_ic_media_route_mono_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/welcomepage.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/welcomepage.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/assetnewone.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/assetnewone.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_closed_caption.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_closed_caption.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_play_large.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_play_large.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_stop.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_stop.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_ic_menu_overflow_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/record_pic.jpg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/record_pic.jpg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/sitting.jpeg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/sitting.jpeg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause_large.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_pause_large.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_text_cursor_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/common_google_signin_btn_icon_dark_focused.xml",
+        "source": "/Users/deepu/.android/build-cache/f0d1baecd4c1c5e0e808e840e5f4c3f9196dbd20/output/res/drawable/common_google_signin_btn_icon_dark_focused.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dogcare.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dogcare.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind30.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_rewind30.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_cab_background_internal_bg.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/plantinhouse_menu_icon.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/plantinhouse_menu_icon.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_pause.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/add.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/add.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_dialog_material_background.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/injection.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/injection.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/low.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/low.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dogicon.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dogicon.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/needspace.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/needspace.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/ic_expand.xml",
+        "source": "/Users/deepu/.android/build-cache/589a722617f9a37e662b9ac7fb6011c1fd49f839/output/res/drawable/ic_expand.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/happy.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/happy.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_ic_arrow_drop_right_black_24dp.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_ic_ab_back_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/hostile.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/hostile.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/selected_day_pic.jpg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/selected_day_pic.jpg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/photo_camera.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/photo_camera.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/high.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/high.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_small_icon.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_small_icon.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/angry.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/angry.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_holo_dark.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/plant.jpeg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/plant.jpeg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_pause.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_expanded_controller_pause.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/remove.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/remove.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_mini_controller_mute.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_mini_controller_mute.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_notification_rewind10.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_notification_rewind10.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/fdog.jpg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/fdog.jpg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_ic_search_api_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_seekbar_thumb_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/cast_ic_expanded_controller_forward30.xml",
+        "source": "/Users/deepu/.android/build-cache/dd060ab10c70ef6c9d0e9e9d3f515feb09b6bd4b/output/res/drawable/cast_ic_expanded_controller_forward30.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/dogplant.jpg",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/dogplant.jpg"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_btn_colored_material.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/overjoyed.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/overjoyed.png"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/abc_list_selector_background_transition_holo_light.xml",
+        "source": "/Users/deepu/.android/build-cache/f86c136dafabd736308612251dbdc95ba814c870/output/res/drawable/abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "/Users/deepu/Downloads/DogWIteration3/app/build/intermediates/res/merged/debug/drawable/plant_menu_icon.png",
+        "source": "/Users/deepu/Downloads/DogWIteration3/app/src/main/res/drawable/plant_menu_icon.png"
+    }
+]

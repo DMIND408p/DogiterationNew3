@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+
+    <Button
+        android:id="@+id/btnOpen"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="49dp"
+        android:layout_marginStart="49dp"
+        android:text="Standing" />
+
+    <ImageView
+        android:id="@+id/imageView2"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_toEndOf="@+id/btnOpen"
+        app:srcCompat="@drawable/fourdog" />
+
+    <Button
+        android:id="@+id/btnHap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnSitting"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/btnSitting"
+        android:layout_marginLeft="16dp"
+        android:layout_marginStart="16dp"
+        android:text="Playful" />
+
+    <Button
+        android:id="@+id/btnStress"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/btnOpen"
+        android:layout_alignParentBottom="true"
+        android:layout_alignStart="@+id/btnOpen"
+        android:text="Stressed" />
+
+    <Button
+        android:id="@+id/btnSitting"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnOpen"
+        android:layout_alignBottom="@+id/btnOpen"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="38dp"
+        android:layout_marginRight="38dp"
+        android:text="Sitting" />
+</RelativeLayout>

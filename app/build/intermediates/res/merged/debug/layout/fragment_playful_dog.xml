@@ -1,0 +1,128 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.deepu.dogwiteration1.DogBodyLanguage.PlayfulDog"
+    android:background="#ffffff"
+    android:id="@+id/playful_dog">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/rdGrp4"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true">
+
+    <RadioButton
+        android:id="@+id/hPuppy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="Puppy Face" />
+
+    <RadioButton
+        android:id="@+id/hStalk"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/hPuppy"
+        android:layout_toRightOf="@+id/rdGrp4"
+        android:text="Stalking"
+        android:layout_alignRight="@+id/hJoy"
+        android:layout_alignEnd="@+id/hJoy" />
+
+    <RadioButton
+        android:id="@+id/hLove"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rdGrp4"
+        android:layout_centerHorizontal="true"
+        android:text="Love Show" />
+
+    <RadioButton
+        android:id="@+id/hHapp"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/hPol"
+        android:layout_alignBottom="@+id/hPol"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:text="Happy"
+        android:layout_alignLeft="@+id/hLBud"
+        android:layout_alignStart="@+id/hLBud" />
+
+    <RadioButton
+        android:id="@+id/hPol"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/hStalk"
+        android:layout_alignBottom="@+id/hStalk"
+        android:layout_alignLeft="@+id/hLove"
+        android:layout_alignStart="@+id/hLove"
+        android:text="Polite"
+        android:layout_alignRight="@+id/hLove"
+        android:layout_alignEnd="@+id/hLove" />
+
+    <RadioButton
+        android:id="@+id/hLBud"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/rdGrp4"
+        android:text="Love Buddy" />
+
+    <RadioButton
+        android:id="@+id/hJoy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignEnd="@+id/hPuppy"
+        android:layout_alignRight="@+id/hPuppy"
+        android:layout_below="@+id/hPol"
+        android:layout_toEndOf="@+id/rdGrp4"
+        android:layout_toRightOf="@+id/rdGrp4"
+        android:text="Joyful" />
+
+    <RadioButton
+        android:id="@+id/hFrnd"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/hJoy"
+        android:layout_alignBottom="@+id/hJoy"
+        android:layout_alignLeft="@+id/hPol"
+        android:layout_alignStart="@+id/hPol"
+        android:text="Friendly"
+        android:layout_alignRight="@+id/hPol"
+        android:layout_alignEnd="@+id/hPol" />
+
+        <RadioButton
+            android:id="@+id/hEnj"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignBaseline="@+id/hFrnd"
+            android:layout_alignBottom="@+id/hFrnd"
+            android:layout_alignLeft="@+id/hHapp"
+            android:layout_alignParentEnd="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignStart="@+id/hHapp"
+            android:text="Enjoying" />
+    </RadioGroup>
+
+    <ImageView
+        android:id="@+id/imageView7"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        app:srcCompat="@drawable/overjoyed"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:layout_below="@+id/rdGrp4" />
+</RelativeLayout>

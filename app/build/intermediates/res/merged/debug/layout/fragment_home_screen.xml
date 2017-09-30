@@ -1,0 +1,91 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.deepu.dogwiteration1.Home.HomeScreen"
+    android:id="@+id/hscreen"
+    android:background="#fff">
+
+    <!-- TODO: Update blank fragment layout -->
+    <!--<RelativeLayout-->
+        <!--android:layout_width="match_parent"-->
+        <!--android:layout_height="match_parent"-->
+        <!--android:id="@+id/main_home">-->
+    <!--&lt;!&ndash;<com.hitomi.cmlibrary.CircleMenu&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_width="match_parent"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:layout_height="1200dp"&ndash;&gt;-->
+        <!--&lt;!&ndash;android:id="@+id/circle_menu"/>&ndash;&gt;-->
+
+        <!--<android.support.v4.view.ViewPager-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:id="@+id/vviewPager">-->
+
+        <!--</android.support.v4.view.ViewPager>-->
+
+        <!--<LinearLayout-->
+            <!--android:id="@+id/slider_dots"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="match_parent"-->
+            <!--android:gravity="center_vertical|center_horizontal"-->
+            <!--android:orientation="horizontal"></LinearLayout>-->
+
+<!--</RelativeLayout>-->
+
+    <ImageView
+        android:id="@+id/cust_img"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:layout_weight="1"
+        android:scaleType="centerCrop"
+        app:srcCompat="@drawable/mollynewone" />
+
+    <ImageButton
+        android:id="@+id/img_cap"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_weight="1"
+        android:onClick="launchcamera"
+        app:srcCompat="@drawable/ic_menu_camera"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_marginBottom="60dp" />
+
+    <Button
+        android:id="@+id/bodyH_Lang"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Body Langauge"
+        android:layout_alignTop="@+id/img_cap"
+        android:layout_alignParentStart="true" />
+
+    <Button
+        android:id="@+id/plantH_find"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Plant Finder"
+        android:layout_alignBaseline="@+id/bodyH_Lang"
+        android:layout_alignBottom="@+id/bodyH_Lang"
+        android:layout_toStartOf="@+id/img_cap" />
+
+    <Button
+        android:id="@+id/breedH_detail"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:text="Breed Details"
+        android:layout_alignParentBottom="true"
+        android:layout_toStartOf="@+id/plantH_find" />
+
+    <Button
+        android:id="@+id/mapH_find"
+        android:layout_width="170dp"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/breedH_detail"
+        android:layout_toEndOf="@+id/bodyH_Lang"
+        android:text="Maps" />
+
+</RelativeLayout>
